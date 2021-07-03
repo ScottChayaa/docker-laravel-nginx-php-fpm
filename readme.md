@@ -1,9 +1,9 @@
-# laravel-nginx-php-fpm
+# docker-laravel-nginx-php-fpm
 
 - php-fpm : 7.4
 - supervisord
 - nginx
-- (And your laravel project : /var/www)
+- laravel project folder: /var/www
 
 # Rebuild & Update docker image
 ```sh
