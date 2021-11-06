@@ -1,4 +1,4 @@
-FROM nanoninja/php-fpm:7.4.10
+FROM nanoninja/php-fpm:5.6.32
 
 WORKDIR /var/www
 
